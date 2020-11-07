@@ -5,7 +5,7 @@
     <div class="lista-vehiculos">
       <ul>
         <li v-for="(vehicle, x) in list.results" v-bind:key="x">
-          <span>{{ vehicle.name }}</span>
+          <span v-on:click="showInfo(vehicle.url)">{{ vehicle.name }}</span>
         </li>
       </ul>
     </div>
@@ -25,11 +25,17 @@ export default {
     fetch('https://swapi.dev/api/vehicles/')
         .then(res => res.json())
         .then(resultado => {
-          console.log(resultado);
           this.list = resultado;
         })
   },
   methods: {
+    showInfo(url) {
+      fetch(url)
+          .then(res => res.json())
+          .then(detail => {
+            this.$emit('info-detail', detail);
+      })
+    }
   }
 }
 </script>

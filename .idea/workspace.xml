@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba5dbd7-4f17-4e5d-ad13-a151b228c9c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project-name/src/components/Detalle.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-name/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-name/src/components/ListadoStarWars.vue" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/components/ListadoStarWars.vue" afterDir="false" />
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604708957143</updated>
       <workItem from="1604708958469" duration="5253000" />
-      <workItem from="1604752418327" duration="5143000" />
+      <workItem from="1604752418327" duration="8275000" />
     </task>
     <servers />
   </component>
@@ -106,29 +107,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604709588365" />
-    <state width="1259" height="137" key="GridCell.Tab.0.bottom" timestamp="1604758935570">
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1604763863133">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604758935570" />
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604763863133" />
     <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604721850706" />
-    <state width="1259" height="137" key="GridCell.Tab.0.center" timestamp="1604758935570">
+    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1604763863132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="137" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604758935570" />
+    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604763863132" />
     <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604721850706" />
-    <state width="1259" height="137" key="GridCell.Tab.0.left" timestamp="1604758935570">
+    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1604763863132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="137" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604758935570" />
+    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604763863132" />
     <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604721850706" />
-    <state width="1259" height="137" key="GridCell.Tab.0.right" timestamp="1604758935570">
+    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1604763863133">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="137" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604758935570" />
+    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604763863133" />
     <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604721850706" />
-    <state x="0" y="0" width="589" height="680" key="find.popup" timestamp="1604758414869">
+    <state x="0" y="0" width="589" height="680" key="find.popup" timestamp="1604763763251">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="589" height="680" key="find.popup/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604758414869" />
+    <state x="0" y="0" width="589" height="680" key="find.popup/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1604763763251" />
   </component>
 </project>
