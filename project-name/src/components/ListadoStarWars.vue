@@ -1,12 +1,11 @@
 <template>
   <div id="ListadoStarWars">
-    <h2>Vehicles</h2>
     <div>
     </div>
     <div class="lista-vehiculos">
       <ul>
         <li v-for="(vehicle, x) in list.results" v-bind:key="x">
-          {{ vehicle.name }}
+          <span>{{ vehicle.name }}</span>
         </li>
       </ul>
     </div>
@@ -37,10 +36,19 @@ export default {
 
 <style scoped>
   ul {
-    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
   }
-  #ListadoStarWars {
-    width: 20%;
-    text-align: left;
+  li {
+    display: inline;
+    float: left;
+    color: aliceblue;
+    margin-right: 2%;
+  }
+  li span:hover {
+    background-color: #111;
   }
 </style>

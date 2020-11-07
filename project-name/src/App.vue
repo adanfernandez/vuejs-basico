@@ -2,6 +2,8 @@
   <div id="app">
     <ListadoStarWars>
     </ListadoStarWars>
+
+    <h1>Probando</h1>
   </div>
 </template>
 
